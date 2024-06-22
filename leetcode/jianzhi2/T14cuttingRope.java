@@ -21,6 +21,7 @@ public class T14cuttingRope {
             dp[i] = tmpMax;
         }
         return dp[n];
+
     }
 
     public static void main(String[] args) {
